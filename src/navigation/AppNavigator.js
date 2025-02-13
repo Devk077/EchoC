@@ -6,7 +6,7 @@ import HomeScreen from "../screens/HomeScreen";
 import PortfolioScreen from "../screens/PortfolioScreen";
 import WatchlistScreen from "../screens/WatchlistScreen";
 import TradingScreen from "../screens/TradingScreen";
-import PaymentScreen from "../screens/PaymentScreen";
+
 import { AuthContext } from "../context/AuthContext";
 
 const Stack = createStackNavigator();
